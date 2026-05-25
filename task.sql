@@ -32,4 +32,4 @@ CREATE TABLE ProductReporting (
     Date DATE NOT NULL,
     ProductName VARCHAR(255) NOT NULL,
     Orders INT UNSIGNED NOT NULL
-) ENGINE=MyISAM;
+) ENGINE=CSV;
